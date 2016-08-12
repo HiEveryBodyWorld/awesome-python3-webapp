@@ -3,7 +3,7 @@ import aiomysql
 import logging
 import asyncio
 
-__author__ = 'xueqian'
+
 
 
 # 记录操作日志
